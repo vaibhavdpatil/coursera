@@ -28,7 +28,7 @@ Here is what you will need to do in order to complete the assignment:
 This will update your local copy of the repository with whatever changes have been made since the last update.
 <br><br>
 **As a reminder, the full repository URL is:
-https://github.com/jhu-ep-coursera/fullstack-course4**
+https://github.com/vaibhavdpatil/coursera/blob/master/Module4/README.md**
 
 5. Once the local repository on your system is up to date, **YOU HAVE A CHOICE**!
 If you want a _slightly_ more challenging assignment, use the code in the "harder" folder as your starting point. If you want a _slightly_ less challenging assignment, use the code in the "easier" folder as your starting point. The _difference_ between the two starting points is that in the "easier" starting point, there are a few steps that are already completed for you.
